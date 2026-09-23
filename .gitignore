@@ -1,0 +1,5 @@
+# Auto-downloaded adb binaries
+tools/
+
+# Local runtime state
+last-ip.txt
